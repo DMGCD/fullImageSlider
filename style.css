@@ -102,12 +102,14 @@ input[type='radio']{
     background-color: #e7af15;
     padding: 20px 50px;
     transition: all 0.3s ease-in;
+    border-radius: 10px;
+    margin: 10px;
 }
 
 .slide .desc a:hover{
     background-color: black;
     color: white;
-    border-radius: 10px;
+    border-radius: 25px;
 }
 .slider .arrow{
     position: absolute;
